@@ -4,22 +4,13 @@ title: Resume
 ---
 
 
-## Header 2 (H1 is reserved for post titles)##
+## Experience##
 
 ### Header 3
 
 #### Header 4
 
 A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
-
-* A bulletted list
-- alternative syntax 1
-+ alternative syntax 2
-  - an indented list item
-
-1. An
-2. ordered
-3. list
 
 Inline markup styles:
 
