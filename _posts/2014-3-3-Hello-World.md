@@ -1,10 +1,47 @@
 ---
 layout: post
-title: You're up and running!
+title: Resume
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+## Header 2 (H1 is reserved for post titles)##
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+### Header 3
+
+#### Header 4
+
+A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
+
+* A bulletted list
+- alternative syntax 1
++ alternative syntax 2
+  - an indented list item
+
+1. An
+2. ordered
+3. list
+
+Inline markup styles:
+
+- _italics_
+- **bold**
+- `code()`
+
+> Blockquote
+>> Nested Blockquote
+
+Syntax highlighting can be used with triple backticks, like so:
+
+```javascript
+/* Some pointless Javascript */
+var rawr = ["r", "a", "w", "r"];
+```
+
+Use two trailing spaces  
+on the right  
+to create linebreak tags  
+
+Finally, horizontal lines
+
+----
+****
