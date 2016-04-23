@@ -6,7 +6,7 @@ title: Resume
 
 ## Experience##
 
-####Programming and technology
+#### Programming and technology
 Video editing and analysis for Neo Insight Inc. 
 Programming contests: Canadian Computing Competition, Educational Computing Contest
 Three years of programming classes with Python.
