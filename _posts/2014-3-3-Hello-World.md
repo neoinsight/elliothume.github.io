@@ -6,9 +6,11 @@ title: Resume
 
 ## Experience##
 
-### Header 3
+####Programming and technology
+Video editing and analysis for Neo Insight Inc. 
+Programming contests: Canadian Computing Competition, Educational Computing Contest
+Three years of programming classes with Python.
 
-#### Header 4
 
 A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
 
