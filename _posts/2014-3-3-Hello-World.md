@@ -7,12 +7,12 @@ title: Resume
 ## Experience##
 
 #### Programming and technology
-Video editing and analysis for Neo Insight Inc. 
-Programming contests: Canadian Computing Competition, Educational Computing Contest
-Three years of programming classes with Python.
+- HTML/Javascript coding and video editing/analysis for Neo Insight Inc. 
+- Programming contests: Canadian Computing Competition, Educational Computing Contest
+- Three years of programming classes with Python.
 
 
-A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
+A link to my learning java program [Magicks Dominion](http://github.com/elliothume/magicks-dominion/).
 
 Inline markup styles:
 
