@@ -12,4 +12,5 @@ My hobbies are: programming (clearly), singing (choirs, barbershop quartets, sma
 ### Contact me
 
 Mobile: 613 710-1899
+
 [elliot@hume.ca](mailto:elliot@hume.ca)
